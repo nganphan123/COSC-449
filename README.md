@@ -28,3 +28,13 @@ MRTK-Unity: https://github.com/microsoft/MixedRealityToolkit-Unity
 [MRTK on Oculus Quest 2](https://www.youtube.com/watch?v=YLntpH_tYz4)
 
 [Add Eye Tracking Features With Oculus Integration For Unity](https://www.youtube.com/watch?v=ZoySn7QlMfQ&t=3s)
+
+### Week 3
+
+[VR set up in Unity](https://developer.oculus.com/documentation/unity/unity-conf-settings/#enable-vr-support)
+
+[Oculus Integration SDK](https://developer.oculus.com/documentation/unity/unity-import/#import-sdk-from-unity-asset-store)
+
+[Oculus XR plugin](https://developer.oculus.com/documentation/unity/unity-xr-plugin/)
+
+Task: Follow [the video](https://www.youtube.com/watch?v=ZoySn7QlMfQ&t=3s) and code the app
