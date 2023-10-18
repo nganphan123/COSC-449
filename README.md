@@ -38,3 +38,11 @@ MRTK-Unity: https://github.com/microsoft/MixedRealityToolkit-Unity
 [Oculus XR plugin](https://developer.oculus.com/documentation/unity/unity-xr-plugin/)
 
 Task: Follow [the video](https://www.youtube.com/watch?v=ZoySn7QlMfQ&t=3s) and code the app
+
+### Week 4
+
+Cast VR screen to PC using SideQuest [download link](https://sidequestvr.com/download)
+
+Look into decreasing the inconsistent movement of the rays by not moving the ray when eye gaze change is minimal
+
+Turn the ray into dot for better selection
