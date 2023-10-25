@@ -46,3 +46,10 @@ Cast VR screen to PC using SideQuest [download link](https://sidequestvr.com/dow
 Look into decreasing the inconsistent movement of the rays by not moving the ray when eye gaze change is minimal
 
 Turn the ray into dot for better selection
+
+### Week 5
+
+https://github.com/nganphan123/COSC-449/assets/58235340/81fcf745-e827-418c-9552-356e76413190
+
+Oculus eye-gaze api doesn't work well with side eye-gaze. To decrease the offset between the ray and the object, user needs to face directly to the object.
+
