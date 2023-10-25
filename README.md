@@ -6,6 +6,8 @@ Honours thesis regarding eye-tracking applications:
 
 2. AR application on MetaQuest headset
 
+[Source code](https://github.com/nganphan123/SimpleEyeTracking) 
+
 ## Progress
 
 ### Week 2
