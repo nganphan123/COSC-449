@@ -6,6 +6,8 @@ Honours thesis regarding eye-tracking applications:
 
 2. AR application on MetaQuest headset
 
+[Source code](https://github.com/nganphan123/SimpleEyeTracking) 
+
 ## Progress
 
 ### Week 2
@@ -48,6 +50,12 @@ Look into decreasing the inconsistent movement of the rays by not moving the ray
 Turn the ray into dot for better selection
 
 ### Week 5
+
+https://github.com/nganphan123/COSC-449/assets/58235340/81fcf745-e827-418c-9552-356e76413190
+
+Oculus eye-gaze api doesn't work well with side eye-gaze. To decrease the offset between the ray and the object, user needs to face directly to the object.
+
+### Week 6
 
 Read abstraction from research paper
 
