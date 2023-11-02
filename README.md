@@ -46,3 +46,19 @@ Cast VR screen to PC using SideQuest [download link](https://sidequestvr.com/dow
 Look into decreasing the inconsistent movement of the rays by not moving the ray when eye gaze change is minimal
 
 Turn the ray into dot for better selection
+
+### Week 5
+
+Read abstraction from research paper
+
+|Title                                                                                                          |DOI                            |Keywords                                                                                                    |Source                                                           |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+|Prospective on Eye-Tracking-based Studies in Immersive Virtual Reality                                         |10.1109/CSCWD49262.2021.9437692|tracking gaze points to manipulate the VR environment                                                   |https://ieeexplore.ieee.org/abstract/document/9437692            |
+|A comparative study of eye tracking and hand controller for aiming tasks in virtual reality                    |10.1145/3317956.3318153        |gaze aiming compared to controller in "aim and shoot" task; qualitative data was gathered               |https://dl.acm.org/doi/abs/10.1145/3317956.3318153               |
+|A Fitt's Law Study of Gaze-Hand Alignment for Selection in 3D User Interfaces                                |10.1145/3544548.3581423        |gaze for target pre-selection; Gaze&Finger and Gaze&Handray techniques                                  |https://dl.acm.org/doi/abs/10.1145/3544548.3581423               |
+|Comparison of Eye-Based and Controller-Based Selection in Virtual Reality                                      |10.1080/10447318.2020.1826190  |Fitt's modeling of the eye-based selection                                                            |https://www.tandfonline.com/doi/abs/10.1080/10447318.2020.1826190|
+|Pinch, Click, or Dwell: Comparing Different Selection Techniques for Eye-Gaze-Based Pointing in Virtual Reality|10.1145/3448018.3457998        |subjects pointed with (eye-)gaze; selected / activated the targets by pinch, clicking a button, or dwell|https://dl.acm.org/doi/abs/10.1145/3448018.3457998               |
+|Evaluating ray casting and two gaze-based pointing techniques for object selection in virtual reality          |10.1145/3281505.3283382        |interaction techniques: ray casting, dwell time and gaze trigger in a simple object selection task      |https://dl.acm.org/doi/abs/10.1145/3281505.3283382               |
+|Eye&Head: Synergetic Eye and Head Movement for Gaze Pointing and Selection                                     |10.1145/3332165.3347921        |                                                                                                        |https://dl.acm.org/doi/abs/10.1145/3332165.3347921               |
+
+[Similar eye gaze project](https://github.com/fabio914/EyeTrackingKeyboard/blob/main/EyeTrackingKeyboard/Assets/Scripts/EyeTrackingKeyboard.cs)
