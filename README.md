@@ -71,3 +71,22 @@ Read abstraction from research paper
 |EyePointing: A Gaze-Based Selection Technique                                     |10.1145/3317956.3318153        |technique which combines the MAGIC pointing technique and the referential mid-air pointing gesture to selecting objects in a distance                                                        |https://dl.acm.org/doi/abs/10.1145/3317956.3318153               |
 
 [Similar eye gaze project](https://github.com/fabio914/EyeTrackingKeyboard/blob/main/EyeTrackingKeyboard/Assets/Scripts/EyeTrackingKeyboard.cs)
+
+### Week 7
+
+#### Find research paper related to eye tracking vs. menu layouts
+
+[Excel sheet](https://docs.google.com/spreadsheets/d/1ShairuokofrCZYIZ3f2G1wFQyLslPylr9cxbPQC4i5g/edit#gid=0)
+[Details doc](https://docs.google.com/document/d/1DVHEEtrXHDCSYFMimdGvQCsItm2M0SevcQ_52cCu9TM/edit#heading=h.vbhfo8ugiwqo)
+
+### Week 8 (reading break)
+
+### Week 9 - 10
+
+1. Fine tune eye tracking app
+
+2. Come up with research ideas. [Link](https://docs.google.com/document/d/1I9NhRJ1p1BYQKidVRXgE4vP2rpZKVB_9knp0B-ZxDgY/edit?usp=sharing)
+
+### Week 11
+
+Develop test application that controls moving objects with controllers
