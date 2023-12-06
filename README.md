@@ -92,3 +92,7 @@ Read abstraction from research paper
 Develop test application that controls moving objects with controllers
 
 https://github.com/nganphan123/COSC-449/assets/58235340/a2160589-2623-4cd0-9666-352dc36de444
+
+Develop test application that controls moving objects with eye gazing and hand pinching
+
+https://github.com/nganphan123/COSC-449/assets/58235340/d1da30a9-1aba-41c5-b0a8-df484f848f96
