@@ -1,4 +1,4 @@
-# COSC-449
+# Eye tracking with Unity
 
 Honours thesis regarding eye-tracking applications:
 
