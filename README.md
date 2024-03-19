@@ -96,4 +96,55 @@ https://github.com/nganphan123/COSC-449/assets/58235340/a2160589-2623-4cd0-9666-
 
 Develop test application that controls moving objects with eye gazing and hand pinching
 
+#### Demonstration
+
 https://github.com/nganphan123/COSC-449/assets/58235340/d1da30a9-1aba-41c5-b0a8-df484f848f96
+
+### Week 12 (December 21, 2023)
+
+Migrated application to a new repository for advanced functionalities
+
+[New repository](https://github.com/nganphan123/SelectionsInOculusPro)
+
+New features completed:
+- Implemented ray casting from head: when the user moves their head, the ray starting from their head produces a list of objects that the ray collides with
+- Integrated with the existent eye gaze ray casting
+
+#### Demonstration
+
+Video description: the upper ray (has yellow colour) is the head control. The lower rays (has purple colour) are the eye control. Both ray types turn red when they hit an object.
+
+https://github.com/nganphan123/COSC-449/assets/58235340/ec1d6f9d-be75-4932-9024-b284ca5c90b0
+
+### Week 13 - 17 
+
+Winter break
+
+### Week 18 (February 1, 2024)
+
+- Implement UI canvas for configuration options:
+  - Technique:
+    - Eye raycasting
+    - Head raycasting
+    - Head + Eye raycasting
+    - Hand controllers
+  - Object speed: 5, 10, 15
+  - Object size: 10x10, 20x20, 25x25
+  - Number of selection times: 5, 10, 15
+- Configured game based on user options
+
+### Week 19 (February 8, 2024)
+
+- Researched how to use facial expression and eye blinking to make selections (besides hand pinching)
+
+[Oculus SDK](https://developer.oculus.com/documentation/unity/move-face-tracking/#face-blendshapes)
+
+#### Demonstration
+1. Select object with right eye blinking
+   
+https://github.com/nganphan123/COSC-449/assets/58235340/d3f63a7f-9ec1-4e29-89e1-f22dbe0f0838
+
+2. Select object with hand pinching 
+
+https://github.com/nganphan123/COSC-449/assets/58235340/c37472f3-d04c-4584-95be-9861d1fb6772
+
