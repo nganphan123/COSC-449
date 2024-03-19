@@ -7,7 +7,7 @@ Honours thesis regarding eye-tracking applications:
 
 2. AR application on MetaQuest headset
 
-[Source code](https://github.com/nganphan123/SimpleEyeTracking) 
+[Source code](https://github.com/nganphan123/SelectionsInOculusPro)
 
 ## Progress
 
@@ -41,6 +41,8 @@ MRTK-Unity: https://github.com/microsoft/MixedRealityToolkit-Unity
 [Oculus XR plugin](https://developer.oculus.com/documentation/unity/unity-xr-plugin/)
 
 Task: Follow [the video](https://www.youtube.com/watch?v=ZoySn7QlMfQ&t=3s) and code the app
+
+[Source code](https://github.com/nganphan123/SimpleEyeTracking) 
 
 ### Week 4
 
