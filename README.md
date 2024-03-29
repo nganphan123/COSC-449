@@ -150,3 +150,13 @@ https://github.com/nganphan123/COSC-449/assets/58235340/d3f63a7f-9ec1-4e29-89e1-
 
 https://github.com/nganphan123/COSC-449/assets/58235340/c37472f3-d04c-4584-95be-9861d1fb6772
 
+### Week 20 (March 28, 2024)
+
+- Add head range selection: objects within the range of head direction will slow down.
+
+https://github.com/nganphan123/COSC-449/assets/58235340/ba2dd14a-3009-454b-bfaa-4cdcd3bf45ec
+
+- Connect to firebase
+  
+![Screenshot 2024-03-28 181354](https://github.com/nganphan123/COSC-449/assets/58235340/56e52b2d-ab36-4e33-9195-244b238c5e96)
+
